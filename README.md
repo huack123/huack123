@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://www.westerndigital.com/">
-    <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo.svg" alt="Western Digital" width="330" />
-  </a>
+  <table align="center" cellpadding="14" bgcolor="#ffffff">
+    <tr>
+      <td align="center">
+        <a href="https://www.westerndigital.com/">
+          <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo.svg" alt="Western Digital" width="330" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <h1>Digital Solution Engineer</h1>
   <p><strong>Building practical digital solutions at WDC</strong></p>
