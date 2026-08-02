@@ -3,7 +3,7 @@
     <tr>
       <td align="center">
         <a href="https://www.westerndigital.com/">
-          <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo.svg" alt="Western Digital" width="330" />
+          <img src="https://raw.githubusercontent.com/huack123/huack123/main/western-digital-logo.svg" alt="Western Digital" width="330" />
         </a>
       </td>
     </tr>
