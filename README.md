@@ -1,30 +1,55 @@
-# Digital Solution Engineer
+<div align="center">
+  <a href="https://www.westerndigital.com/">
+    <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo.svg" alt="Western Digital" width="330" />
+  </a>
 
-I work at WDC at the intersection of business needs, technology, and execution—turning complex problems into practical digital solutions that are useful, scalable, and easy to adopt.
+  <h1>Digital Solution Engineer</h1>
+  <p><strong>Building practical digital solutions at WDC</strong></p>
+  <p>
+    <a href="https://github.com/huack123"><img src="https://img.shields.io/badge/GitHub-huack123-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="https://github.com/huack123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1f6feb?style=flat-square" alt="Explore repositories" /></a>
+  </p>
+</div>
 
-## What I focus on
+---
 
-- Translating business challenges into clear technical solutions
-- Designing workflows that improve efficiency and user experience
-- Connecting people, processes, data, and platforms
-- Exploring practical applications of automation and AI
-- Continuously learning, experimenting, and sharing what works
+## I turn complex problems into useful systems
+
+I work at WDC at the intersection of business needs, technology, and execution—turning ambiguous challenges into digital solutions that are clear, scalable, and easy to adopt.
+
+## Focus areas
+
+| Area | What it means to me |
+| --- | --- |
+| **Solution design** | Connecting business goals to practical technical paths |
+| **Automation and integration** | Reducing friction across tools, data, and workflows |
+| **Data and AI** | Exploring responsible, useful applications that create measurable value |
+| **Delivery and adoption** | Making solutions understandable, reliable, and easy to use |
 
 ## Currently
 
 - Building digital solutions at WDC
 - Improving how teams work through thoughtful automation and better processes
-- Developing a stronger perspective on scalable systems, data, and product delivery
+- Exploring the practical intersection of data, AI, and scalable systems
+- Sharing experiments, tools, notes, and learnings through this profile
 
-## Working principles
+## Selected work
 
-- Start with the problem, not the technology.
-- Keep solutions simple enough to use and strong enough to scale.
-- Make progress visible through small, measurable improvements.
-- Treat reliability, security, and maintainability as part of the design.
+- [**thesis-desk**](https://github.com/huack123/thesis-desk) — A US technology research PWA with live Finnhub quotes.
+- [**messenger-webhook**](https://github.com/huack123/messenger-webhook) — A public project exploring webhook-based workflows.
+
+## How I work
+
+1. **Start with the problem, not the technology.**
+2. **Make the solution clear before making it complex.**
+3. **Ship small, measurable improvements.**
+4. **Treat reliability, security, and maintainability as part of the design.**
 
 ## Explore
 
-I use this space to share experiments, tools, notes, and projects related to digital solutions, automation, data, and AI.
+<a href="https://github.com/huack123?tab=repositories">Browse my repositories</a> to see what I am building and learning. I am especially interested in thoughtful conversations about digital solutions, automation, data, and AI.
 
-> Building practical technology for real-world impact.
+<div align="center">
+  <br />
+  <sub>Western Digital and the WD logo are trademarks of Western Digital Corporation. Logo used here for employer identification.</sub>
+</div>
